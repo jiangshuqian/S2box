@@ -44,3 +44,7 @@ def mvgrass(self, position, wait_time, nozzle_number, grass_size): #除草函数
                                      #要与上一次串口发送的位置和时间有一定的差值。
 def close(self):                     #关闭串口。
 ```
+## 识别效果
+![](doc/detection.gif)
+## 与我联系
+如果学弟有该项目相关问题，可以发我邮箱1226705581@qq.com。
