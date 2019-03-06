@@ -1,7 +1,7 @@
-# S2box
+# S2Box
 This is an undergraduate's python code for my S2box in NEAU jidainyanjiuzhongxin.
 ## 概述
-这是我本科生时在东北农业大学机电研究中心时写的代码，你看到的代码是智能喷洒模块(英文名是：smart and spray box)的视觉部分代码。
+这是我本科生时在东北农业大学机电研究中心时写的代码，你看到的代码是智能喷洒模块(英文名是：Smart and Spray Box，缩写：S2Box)的视觉部分代码。
 代码一共三个文件，用Python编写，个人感觉我的串口部分有一点参考价值。
 ### box_model.py
 box_model.py是主文件。
