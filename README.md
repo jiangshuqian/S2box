@@ -48,4 +48,4 @@ def close(self):                     #关闭串口。
 ![](doc/detection.gif)
 其它图也较大，点击查看：[实验图](doc/experiment.gif)、[工作图](doc/work.gif)。
 ## 与我联系
-如果学弟有该项目相关问题，可以发我邮箱1226705581@qq.com。
+如果学弟有该项目相关问题，可以发我邮箱: nutshellqian@qq.com。
